@@ -36,7 +36,7 @@
 \usepackage{polyglossia} %LuaLatex Compiler Engine
 \setmainlanguage[variant=indonesian]{malay}
 \setotherlanguages{english}
-\PolyglossiaSetup{malay}{indentfirst=true}
+\PolyglossiaSetup{malay}{indentfirst=false}
 
 % Rename caption's command for bahasai
 \addto\captionsmalay{
