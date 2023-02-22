@@ -277,8 +277,8 @@
 %----------------------------------------------------------------------------------------
 
 \usepackage{fancyhdr} % Required for customising headers and footers
-\pagestyle{fancy} % Enable custom headers and footers
-
+%\pagestyle{fancy} % Enable custom headers and footers
+\pagestyle{empty}
 \renewcommand{\headrulewidth}{0pt} % Remove default top horizontal rule
 \lhead{} % Left header
 \chead{} % Centre header
